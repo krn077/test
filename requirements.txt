@@ -1,5 +1,5 @@
 tensorflow
-aiohttp>
+aiohttp
 nest_asyncio
 quantumrandom
 hyperion-py
