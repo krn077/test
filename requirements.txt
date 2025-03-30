@@ -1,7 +1,7 @@
-tensorflow>=2.0
-aiohttp>=3.8.0
-nest_asyncio>=1.5.0
-quantumrandom>=1.0.0
+tensorflow
+aiohttp>
+nest_asyncio
+quantumrandom
 hyperion-py
-kracken>=1.0.0
-spacetime>=1.0.0
+kracken
+spacetime
